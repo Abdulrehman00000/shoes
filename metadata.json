@@ -1,0 +1,8 @@
+{
+  "name": "Remix Atelier Vendôme — Luxury Footwear",
+  "description": "Haute Cordonnerie and bespoke luxury handcrafted footwear with interactive customization, lookbook showcase, and atelier craftsmanship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
