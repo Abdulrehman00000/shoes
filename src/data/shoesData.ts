@@ -1,15 +1,24 @@
 import { Shoe } from '../types/shoes';
 
+import heroImg from '../assets/images/hero_luxury_shoe_cinematic_1791816629627.jpg';
+import oxfordNeroImg from '../assets/images/shoe_oxford_nero_bespoke_1791816648100.jpg';
+import monkstrapCognacImg from '../assets/images/shoe_monkstrap_cognac_1791816662620.jpg';
+import loaferEmeraldImg from '../assets/images/shoe_loafer_emerald_croc_1791816679192.jpg';
+import derbySplitToeImg from '../assets/images/shoe_derby_split_toe.jpg';
+import chelseaBootImg from '../assets/images/shoe_chelsea_boot.jpg';
+import belgianLoaferImg from '../assets/images/shoe_belgian_loafer.jpg';
+import atelierHandsImg from '../assets/images/atelier_craftsman_hands_1791816693511.jpg';
+
 // High-fidelity image assets generated for Atelier Vendôme
 export const IMAGES = {
-  hero: '/src/assets/images/hero_luxury_shoe_cinematic_1791816629627.jpg',
-  oxfordNero: '/src/assets/images/shoe_oxford_nero_bespoke_1791816648100.jpg',
-  monkstrapCognac: '/src/assets/images/shoe_monkstrap_cognac_1791816662620.jpg',
-  loaferEmerald: '/src/assets/images/shoe_loafer_emerald_croc_1791816679192.jpg',
-  derbySplitToe: '/src/assets/images/shoe_derby_split_toe.jpg',
-  chelseaBoot: '/src/assets/images/shoe_chelsea_boot.jpg',
-  belgianLoafer: '/src/assets/images/shoe_belgian_loafer.jpg',
-  atelierHands: '/src/assets/images/atelier_craftsman_hands_1791816693511.jpg',
+  hero: heroImg,
+  oxfordNero: oxfordNeroImg,
+  monkstrapCognac: monkstrapCognacImg,
+  loaferEmerald: loaferEmeraldImg,
+  derbySplitToe: derbySplitToeImg,
+  chelseaBoot: chelseaBootImg,
+  belgianLoafer: belgianLoaferImg,
+  atelierHands: atelierHandsImg,
 };
 
 export const LUXURY_SHOES: Shoe[] = [
